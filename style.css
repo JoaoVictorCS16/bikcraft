@@ -22,7 +22,7 @@ h1::after {
 }
 
 img {
-  width: 100%;
+  max-width: 100%;
   display: inline-block;
 }
 
@@ -89,7 +89,7 @@ a:hover {
   right: -30px;
 }
 
-img {
+.introducao.cover img {
   object-fit: cover;
   height: 100%;
 }
