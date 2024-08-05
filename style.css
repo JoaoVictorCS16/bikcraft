@@ -22,8 +22,8 @@ h1::after {
 }
 
 img {
-  max-width: 100%;
-  display: block;
+  width: 100%;
+  display: inline-block;
 }
 
 p,
